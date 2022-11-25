@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: app-html
-        image: flaventurini/app-html:1.0
+        image: flaventurini/app-html:1.2
         ports:
         - containerPort: 80
