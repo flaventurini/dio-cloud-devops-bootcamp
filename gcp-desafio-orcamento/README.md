@@ -6,6 +6,6 @@ Para estabelecimento do orçamento, foi levando em consideração o valor de cr�
 
 Assim, com um crédito de R$1.700,00, foi estabelecido alertas de consumo para:
 
-.50% do uso - R$850,00
-.90% do uso - R$1.530,00
-.100% do uso - R$1.700,00
+* 50% do uso - R$850,00
+* 90% do uso - R$1.530,00
+* 100% do uso - R$1.700,00
